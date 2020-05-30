@@ -1,0 +1,42 @@
+.navbar{
+  background-color: #443737;
+}
+
+.navbar-brand{
+  color: #eeeeee;
+}
+
+.nav-link{
+  color: #eeeeee;
+}
+
+#section{
+
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  background-color: #443737;
+}
+
+.carousel-item{
+  padding: 70px;
+}
+
+h3{
+  color: #acdbdf;
+}
+
+.pic{
+  height: 250px;
+  width: 250px;
+}
+
+.bottom-container {
+  background-color: #272121;
+  padding: 50px 0 20px;
+  text-align: center;
+}
+
+.copyright{
+  color: #fff;
+}
